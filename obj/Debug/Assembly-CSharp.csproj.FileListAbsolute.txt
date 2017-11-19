@@ -1,0 +1,70 @@
+C:\Users\Animacion3d\Desktop\Pablo\Proyectos Unity\Naves\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Animacion3d\Desktop\Pablo\Proyectos Unity\Naves\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Animacion3d\Desktop\Pablo\Proyectos Unity\Naves\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Animacion3d\Desktop\Pablo\Proyectos Unity\Naves\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Animacion3d\Desktop\Pablo\Proyectos Unity\Naves\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Animacion3d\Desktop\Pablo\Proyectos Unity\Naves\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Animacion3d\Desktop\Pablo\Proyectos Unity\Naves\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Animacion3d\Desktop\Pablo\Proyectos Unity\Naves\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Animacion3d\Desktop\Pablo\Proyectos Unity\Naves\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Animacion3d\Desktop\Pablo\Proyectos Unity\Naves\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Animacion3d\Desktop\Pablo\Proyectos Unity\Naves\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Animacion3d\Desktop\Pablo\Proyectos Unity\Naves\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Animacion3d\Desktop\Pablo\Proyectos Unity\Naves\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Animacion3d\Desktop\Pablo\Proyectos Unity\Naves\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Animacion3d\Desktop\Pablo\Proyectos Unity\Naves\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Animacion3d\Desktop\Pablo\Proyectos Unity\Naves\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Animacion3d\Desktop\Pablo\Proyectos Unity\Naves\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Animacion3d\Desktop\Pablo\Proyectos Unity\Naves\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Animacion3d\Desktop\Pablo\Proyectos Unity\Naves\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Animacion3d\Desktop\Pablo\Proyectos Unity\Naves\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Animacion3d\Desktop\Pablo\Proyectos Unity\Naves\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Animacion3d\Desktop\Pablo\Proyectos Unity\Naves\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Animacion3d\Desktop\Pablo\Proyectos Unity\Naves\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Animacion3d\Desktop\Pablo\Proyectos Unity\Naves\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Animacion3d\Desktop\Pablo\Proyectos Unity\Naves\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Animacion3d\Desktop\Pablo\Proyectos Unity\Naves\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Animacion3d\Desktop\Pablo\Proyectos Unity\Naves\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Animacion3d\Desktop\Pablo\Proyectos Unity\Naves\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Animacion3d\Desktop\Pablo\Proyectos Unity\Naves\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Animacion3d\Desktop\Pablo\Proyectos Unity\Naves\obj\Debug\Assembly-CSharp.dll
+C:\Users\Animacion3d\Desktop\Pablo\Proyectos Unity\Naves\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Animacion3d\Desktop\Pablo\Proyectos Unity\Naves\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\nunit.framework.dll
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\UnityEditor.dll
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\UnityEngine.dll
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\UnityEngine.Purchasing.dll
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\Unity.Cecil.dll
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\Unity.DataContract.dll
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\UnityEngine.xml
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\UnityEditor.xml
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\nunit.framework.xml
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Users\Usuario\Desktop\Naves\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\Users\Usuario\Desktop\Naves\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Users\Usuario\Desktop\Naves\obj\Debug\Assembly-CSharp.dll
+D:\Users\Usuario\Desktop\Naves\obj\Debug\Assembly-CSharp.pdb
